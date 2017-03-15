@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Extension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>JavascriptInjection.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>7DBA9D791E78AF5200003DFA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7DBA9D8F1E78B0D800003DFA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
